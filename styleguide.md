@@ -44,9 +44,9 @@ For the social icons, you can use a font icon library. Some suggestions can be f
 - [Ionicons](https://ionicons.com/)
 
  <div>
-            <a href="https://www.linkedin.com/in/ifeoluwa-oladeni/"  class="home__social-icon">
+            <a href="https://www.linkedin.com/in/becky-benson-5946a4237"  class="home__social-icon">
                 <i class="fa fa-facebook" aria-hidden="true"></i>
-            <a href="https://twitter.com/IfeoluwaOladeni?t=LLiahx2C-IL-nV-THcA_dg&s=09"  class="home__social-icon">
+            <a href="https://twitter.com/Beckyfunmizest?t=Y5g2jc0DXANfcarE-f17Mg&s=09"  class="home__social-icon">
                 <i class="fa fa-twitter" aria-hidden="true"></i>                    </a>
 
             <a href="https://github.com/Beckyzest" class="home__social-icon">
